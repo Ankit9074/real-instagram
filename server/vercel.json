@@ -1,9 +1,5 @@
 {
   "version": 2,
-  "builld": [ {
-    "src": "",
-    "use": "@vercel/node"
-  }],
   "routes": [
     {
       "src": "/(.*)",
